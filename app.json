@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "dazdgg6",
+  "description": "dazdgg6",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/tree89happy32/dazdgg6",
+  "repository": "https://github.com/tree89happy32/dazdgg6",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
